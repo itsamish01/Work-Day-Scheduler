@@ -14,5 +14,8 @@ This website was built using HTML to create a frame of the website. CSS was used
 
 ## Website
 
+https://itsamish01.github.io/Work-Day-Scheduler/
+
 ## Screenshot
 
+<img width="1185" alt="Screen Shot 2022-11-14 at 8 16 09 PM" src="https://user-images.githubusercontent.com/114682284/201810113-82a11a80-4bbe-4a1d-bb3b-657eea254cc0.png">
